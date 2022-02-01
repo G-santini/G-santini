@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G-santini
 - 👀 I’m interested in AI, ML, Climbing
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Deep Learning, Spring Framework
 - 📫 How to reach me: gabriele.santini@gntechonomy.com
 
 <!---
